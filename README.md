@@ -1,3 +1,6 @@
+This project focuses on recognizing handwritten digits using machine learning techniques. By leveraging the Optical Recognition of Handwritten Digits dataset, different classifiers like Support Vector Machine, Decision Tree, and Random Forest are trained and evaluated. The project highlights how model choice and training size affect accuracy, demonstrating practical approaches to image-based digit classification.
+
+
 Digits Recognition with scikit-learn
 This project demonstrates Optical Recognition of Handwritten Digits using various machine learning classifiers.
 
